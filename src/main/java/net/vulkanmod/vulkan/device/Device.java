@@ -117,7 +117,6 @@ public class Device {
         // // Vulkan 1.2 check disabled: if (VK_VERSION_MINOR(vkVer1) < 2) {
         //     // throw new RuntimeException("Vulkan 1.2 not supported. Only Has: " + formattedVersion); 
         // }
-            }
             return vkVer1;
         }
     }
